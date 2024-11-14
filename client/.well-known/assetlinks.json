@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.raia.raia",
+        "sha256_cert_fingerprints": ["7E:30:F9:B1:D7:69:8D:E2:0B:BA:89:01:6C:76:DA:BE:29:C8:D4:41:F5:DB:32:86:2C:E0:B8:BE:2A:08:3D:5E"]
+      }
+    }]
